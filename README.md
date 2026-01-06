@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**prof-fiddlesticks/prof-fiddlesticks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on GTE vSentinel 1.0
 - 🌱 I’m currently learning python
@@ -13,4 +7,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ishaandokania1@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love aviation
--->
+
