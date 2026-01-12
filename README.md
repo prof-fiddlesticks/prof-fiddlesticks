@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on GTE vSentinel 1.0
+- 🔭 I’m currently working on VPal
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on games
 - 💬 Ask me about aviation
